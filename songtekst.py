@@ -57,8 +57,6 @@ She seems to have an invisible touch, oh
 artist = "Genesis"
 song_title = "Invisible Touch"
 print(f"Artiest: {artist} nummer: {song_title}.\n")
-
-
 stanza_one()
 refrain()
 stanza_two()
